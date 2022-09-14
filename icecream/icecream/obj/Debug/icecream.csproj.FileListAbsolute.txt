@@ -1,0 +1,10 @@
+C:\Users\ninja\source\repos\icecream\icecream\bin\Debug\icecream.exe.config
+C:\Users\ninja\source\repos\icecream\icecream\bin\Debug\icecream.exe
+C:\Users\ninja\source\repos\icecream\icecream\bin\Debug\icecream.pdb
+C:\Users\ninja\source\repos\icecream\icecream\obj\Debug\icecream.csprojAssemblyReference.cache
+C:\Users\ninja\source\repos\icecream\icecream\obj\Debug\icecream.Form1.resources
+C:\Users\ninja\source\repos\icecream\icecream\obj\Debug\icecream.Properties.Resources.resources
+C:\Users\ninja\source\repos\icecream\icecream\obj\Debug\icecream.csproj.GenerateResource.cache
+C:\Users\ninja\source\repos\icecream\icecream\obj\Debug\icecream.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\icecream\icecream\obj\Debug\icecream.exe
+C:\Users\ninja\source\repos\icecream\icecream\obj\Debug\icecream.pdb
