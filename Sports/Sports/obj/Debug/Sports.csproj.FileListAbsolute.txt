@@ -1,0 +1,10 @@
+C:\Users\ninja\source\repos\Sports\Sports\bin\Debug\Sports.exe.config
+C:\Users\ninja\source\repos\Sports\Sports\bin\Debug\Sports.exe
+C:\Users\ninja\source\repos\Sports\Sports\bin\Debug\Sports.pdb
+C:\Users\ninja\source\repos\Sports\Sports\obj\Debug\Sports.csprojAssemblyReference.cache
+C:\Users\ninja\source\repos\Sports\Sports\obj\Debug\Sports.Form1.resources
+C:\Users\ninja\source\repos\Sports\Sports\obj\Debug\Sports.Properties.Resources.resources
+C:\Users\ninja\source\repos\Sports\Sports\obj\Debug\Sports.csproj.GenerateResource.cache
+C:\Users\ninja\source\repos\Sports\Sports\obj\Debug\Sports.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\Sports\Sports\obj\Debug\Sports.exe
+C:\Users\ninja\source\repos\Sports\Sports\obj\Debug\Sports.pdb
