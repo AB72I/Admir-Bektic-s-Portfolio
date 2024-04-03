@@ -1,0 +1,32 @@
+chips,crisps
+french fries,chips
+sidewalk,pavement
+cookie,biscuit
+apartment,flat
+elevator,lift
+gas,petrol
+soccer,football
+movie,film
+sweater,jumper
+trunk,boot
+hood,bonnet
+last name,surname
+restroom,toilet
+cart,trolley
+candy,sweet
+vacation,holiday
+subway,underground
+pants,trousers
+mailbox,postbox
+airplane,aeroplane
+fall,autumn
+truck,lorry
+counterclockwise,anticlockwise
+period,full stop
+zip code,postal code
+overpass,flyover
+parking lot,car park
+license plate,number plate
+bar,pub
+garbage,rubbish
+closet,wardrobe

@@ -1,0 +1,22 @@
+Steve Smith
+7,70
+Sue Jones
+3,60
+Bob Willis
+12,60
+Kun Joom
+20,78.9
+Joe Bush
+10,80.56
+Kim Long
+2,99
+Fred Ring
+5,33.3
+Frank Pearse
+5,67.98
+Ian Botham
+8,55.6
+Mark James
+7,77.7
+7
+

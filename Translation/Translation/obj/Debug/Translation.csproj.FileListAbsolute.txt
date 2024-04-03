@@ -1,0 +1,12 @@
+C:\Users\ninja\source\repos\Translation\Translation\bin\Debug\Translation.exe.config
+C:\Users\ninja\source\repos\Translation\Translation\bin\Debug\Translation.exe
+C:\Users\ninja\source\repos\Translation\Translation\bin\Debug\Translation.pdb
+C:\Users\ninja\source\repos\Translation\Translation\obj\Debug\Translation.csproj.AssemblyReference.cache
+C:\Users\ninja\source\repos\Translation\Translation\obj\Debug\Translation.csproj.SuggestedBindingRedirects.cache
+C:\Users\ninja\source\repos\Translation\Translation\obj\Debug\Translation.Form1.resources
+C:\Users\ninja\source\repos\Translation\Translation\obj\Debug\Translation.Properties.Resources.resources
+C:\Users\ninja\source\repos\Translation\Translation\obj\Debug\Translation.csproj.GenerateResource.cache
+C:\Users\ninja\source\repos\Translation\Translation\obj\Debug\Translation.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\Translation\Translation\obj\Debug\Translation.exe
+C:\Users\ninja\source\repos\Translation\Translation\obj\Debug\Translation.pdb
+C:\Users\ninja\source\repos\Translation\Translation\obj\Debug\Translation.frmTest.resources
