@@ -1,0 +1,56 @@
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\bin\Debug\ManageCompany.exe.config
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\bin\Debug\ManageCompany.exe
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\bin\Debug\ManageCompany.pdb
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.frmManageCompany.resources
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.Properties.Resources.resources
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.GenerateResource.cache
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.CoreCompileInputs.cache
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.exe
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.pdb
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.frmNewEmployee.resources
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\bin\Debug\ManageCompany.exe.config
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\bin\Debug\ManageCompany.exe
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\bin\Debug\ManageCompany.pdb
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\obj\Debug\ManageCompany.csprojAssemblyReference.cache
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\obj\Debug\ManageCompany.frmManageCompany.resources
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\obj\Debug\ManageCompany.frmNewEmployee.resources
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\obj\Debug\ManageCompany.Properties.Resources.resources
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\obj\Debug\ManageCompany.csproj.GenerateResource.cache
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\obj\Debug\ManageCompany.csproj.CoreCompileInputs.cache
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\obj\Debug\ManageCompany.exe
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany - Copy\ManageCompany\obj\Debug\ManageCompany.pdb
+C:\Users\maherp\Documents\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csprojAssemblyReference.cache
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\bin\Debug\ManageCompany.exe.config
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\bin\Debug\ManageCompany.exe
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\bin\Debug\ManageCompany.pdb
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csprojAssemblyReference.cache
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.frmManageCompany.resources
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.frmNewEmployee.resources
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.Properties.Resources.resources
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.GenerateResource.cache
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.CoreCompileInputs.cache
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.exe
+C:\Users\maherp\Desktop\maherp\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.pdb
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\bin\Debug\ManageCompany.exe.config
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\bin\Debug\ManageCompany.exe
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\bin\Debug\ManageCompany.pdb
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.frmManageCompany.resources
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.frmNewEmployee.resources
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.Properties.Resources.resources
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.GenerateResource.cache
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.CoreCompileInputs.cache
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.exe
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.pdb
+C:\Users\maherp\OneDrive - Webster University\Courses\COSC 2110\Projects\Chapter 13\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.AssemblyReference.cache
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\bin\Debug\ManageCompany.exe.config
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\bin\Debug\ManageCompany.exe
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\bin\Debug\ManageCompany.pdb
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.AssemblyReference.cache
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\obj\Debug\ManageCompany.frmManageCompany.resources
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\obj\Debug\ManageCompany.frmNewEmployee.resources
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\obj\Debug\ManageCompany.Properties.Resources.resources
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.GenerateResource.cache
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\obj\Debug\ManageCompany.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\obj\Debug\ManageCompany.exe
+C:\Users\ninja\source\repos\ManageCompany\ManageCompany\obj\Debug\ManageCompany.pdb
