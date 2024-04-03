@@ -1,0 +1,12 @@
+C:\Users\ninja\source\repos\flights\flights\bin\Debug\flights.exe.config
+C:\Users\ninja\source\repos\flights\flights\bin\Debug\flights.exe
+C:\Users\ninja\source\repos\flights\flights\bin\Debug\flights.pdb
+C:\Users\ninja\source\repos\flights\flights\obj\Debug\flights.csproj.AssemblyReference.cache
+C:\Users\ninja\source\repos\flights\flights\obj\Debug\flights.csproj.SuggestedBindingRedirects.cache
+C:\Users\ninja\source\repos\flights\flights\obj\Debug\flights.Form1.resources
+C:\Users\ninja\source\repos\flights\flights\obj\Debug\flights.Properties.Resources.resources
+C:\Users\ninja\source\repos\flights\flights\obj\Debug\flights.csproj.GenerateResource.cache
+C:\Users\ninja\source\repos\flights\flights\obj\Debug\flights.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\flights\flights\obj\Debug\flights.exe
+C:\Users\ninja\source\repos\flights\flights\obj\Debug\flights.pdb
+C:\Users\ninja\source\repos\flights\flights\obj\Debug\flights.frmPassengerList.resources
