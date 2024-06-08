@@ -1,0 +1,7 @@
+﻿  Loginandregister2.cpp
+C:\Users\ninja\source\repos\Loginandregister2\Loginandregister2\Loginandregister2.cpp(153,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ninja\source\repos\Loginandregister2\Loginandregister2\Loginandregister2.cpp(169,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ninja\source\repos\Loginandregister2\Loginandregister2\Loginandregister2.cpp(183,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ninja\source\repos\Loginandregister2\Loginandregister2\Loginandregister2.cpp(197,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ninja\source\repos\Loginandregister2\Loginandregister2\Loginandregister2.cpp(211,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Loginandregister2.vcxproj -> C:\Users\ninja\source\repos\Loginandregister2\x64\Debug\Loginandregister2.exe
